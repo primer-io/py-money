@@ -143,4 +143,5 @@ This repo requires pull-request reviews for all changes on branches bound for pr
 
 Acknowledgements
 ================
+Fork of https://github.com/vimeo/py-money 
 Much of the code is borrowed from https://github.com/carlospalol/money. Much of the logic for handling foreign currencies is taken from https://github.com/sebastianbergmann/money. Money formatting is powered by `Babel <http://babel.pocoo.org/>`_.

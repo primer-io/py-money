@@ -8,16 +8,16 @@ with open(path.join(here, 'README.rst')) as f:
     long_description = f.read()
 
 setup(
-    name='py-money',
+    name='primer-py-money',
     packages=[
         'money'
     ],
-    version='0.5.0',
-    description='Money module for python',
+    version='0.6.0',
+    description='Money module for python with Primer specific subunits',
     long_description=long_description,
-    url='https://github.com/vimeo/py-money',
-    author='J.C. Manzo',
-    author_email='jnmanzo@gmail.com',
+    url='https://github.com/primer-io/py-money',
+    author='Primer',
+    author_email='"developers@primer.io',
     license='MIT',
     classifiers=[
         'Development Status :: 4 - Beta',
