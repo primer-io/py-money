@@ -396,7 +396,7 @@ class CurrencyHelper:
             'display_name': 'Chilean Peso',
             'numeric_code': 152,
             'default_fraction_digits': 0,
-            'sub_unit': 100,
+            'sub_unit': 1,
         },
         Currency.CNY: {
             'display_name': 'Yuan Renminbi',
@@ -438,7 +438,7 @@ class CurrencyHelper:
             'display_name': 'Cape Verde Escudo',
             'numeric_code': 132,
             'default_fraction_digits': 2,
-            'sub_unit': 100,
+            'sub_unit': 1,
         },
         Currency.CZK: {
             'display_name': 'Czech Koruna',
@@ -450,7 +450,7 @@ class CurrencyHelper:
             'display_name': 'Djibouti Franc',
             'numeric_code': 262,
             'default_fraction_digits': 0,
-            'sub_unit': 100,
+            'sub_unit': 1,
         },
         Currency.DKK: {
             'display_name': 'Danish Krone',
@@ -588,7 +588,7 @@ class CurrencyHelper:
             'display_name': 'Rupiah',
             'numeric_code': 360,
             'default_fraction_digits': 2,
-            'sub_unit': 100,
+            'sub_unit': 1,
         },
         Currency.ILS: {
             'display_name': 'New Israeli Sheqel',
@@ -654,7 +654,7 @@ class CurrencyHelper:
             'display_name': 'Riel',
             'numeric_code': 116,
             'default_fraction_digits': 2,
-            'sub_unit': 100,
+            'sub_unit': 1,
         },
         Currency.KMF: {
             'display_name': 'Comoro Franc',
